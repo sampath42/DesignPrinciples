@@ -1,0 +1,11 @@
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.csprojAssemblyReference.cache
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.csproj.CoreCompileInputs.cache
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.AssemblyInfoInputs.cache
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.AssemblyInfo.cs
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\bin\Debug\netcoreapp2.0\dip.deps.json
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\bin\Debug\netcoreapp2.0\dip.runtimeconfig.json
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\bin\Debug\netcoreapp2.0\dip.runtimeconfig.dev.json
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\bin\Debug\netcoreapp2.0\dip.dll
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\bin\Debug\netcoreapp2.0\dip.pdb
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.dll
+F:\Important\From EPAM\My Trainings\DesignPrinciples\dip\obj\Debug\netcoreapp2.0\dip.pdb
